@@ -10,7 +10,7 @@ A Google Cloud project with the YouTube API enabled
 A YouTube Data API key or a JSON credentials file
 The google-auth and google-api-python-client Python modules
 
-##Installation
+## Installation
 1. Clone this repository to your local machine.
    
 2. Install the required Python modules by running the following command in your
