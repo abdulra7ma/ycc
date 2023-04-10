@@ -129,10 +129,10 @@ if __name__ == "__main__":
     
 
     youtube_channels = [
-        "https://www.youtube.com/@Media-qy6oc/videos",
-        "https://www.youtube.com/@bairakgroup/videos",
-        "https://www.youtube.com/@user-rg4yt3uz1i/videos",
-        "https://www.youtube.com/@nsns466/videos",
+        # "https://www.youtube.com/@Media-qy6oc/videos",
+        # "https://www.youtube.com/@bairakgroup/videos",
+        # "https://www.youtube.com/@user-rg4yt3uz1i/videos",
+        # "https://www.youtube.com/@nsns466/videos",
         "https://www.youtube.com/@SUPERTV_TELEKANAL/videos",
         "https://www.youtube.com/@AzattykMedia/videos",
         "https://www.youtube.com/@temirovlivekg4060/videos",
